@@ -20,14 +20,6 @@ rails db:seed
 rails s
 
 # Tasks
-1. I have written the logic backe-end and frontend logic to filter hotels by location but there is some issue in frontend side so this feature is not working. This can be accessed by 'http://localhost/hotels'
-
-2. Although the booking feature on the UI is near completion, it's currently experiencing functionality issues. The main problem lies in the inability to save room bookings properly during the booking process. Despite the code being largely completed. This can be accessed by 'http://localhost/bookings'
-
-3. Booked rooms can be displayed.
-
-4. User can cancel the bookings.
-
 1. you can visit http://localhost:5173/ default url once you run front-end and backend servcers.
 2. I have currently created a single-page layout encompassing all tasks. Due to time constraints, each component is listed on one page. However, employing Vue Router would allow for more effective management and organization of these components. With Vue Router, we can seamlessly navigate between different pages or components, enhancing user experience and providing a more structured and intuitive interface.
 
